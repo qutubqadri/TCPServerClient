@@ -1,2 +1,2 @@
-# TCPServerClient
-Simple TCP Server and Client program
+# TCP Server Client
+Simple program to demonstrate TCP Server and Client communication
